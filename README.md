@@ -1,2 +1,2 @@
-# Fusion360-Models
-3D Models using F360
+# Fusion360-Projects
+Some projects using F360
